@@ -1,2 +1,2 @@
 # alpaca.onnx
-alpaca onnx model set, support NPU
+Same as [llama.onnx](https://github.com/tpoisonooo/llama.onnx)
